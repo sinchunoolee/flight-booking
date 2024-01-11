@@ -38,11 +38,15 @@
 <!--			<version>5.4.33.Final</version>-->
 <!--		</dependency>-->
 <!--		&lt;!&ndash; https://mvnrepository.com/artifact/com.mysql/mysql-connector-j &ndash;&gt;-->
+		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<scope>runtime</scope>
+			<version>8.0.33</version>
 		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
+
 
 		<!--<dependency>
 			<groupId>javax.xml.bind</groupId>

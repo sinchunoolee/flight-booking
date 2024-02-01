@@ -31,7 +31,4 @@ public class FlightData {
     @Column(name = "price")
     private Integer price;
 
-
-
-
 }

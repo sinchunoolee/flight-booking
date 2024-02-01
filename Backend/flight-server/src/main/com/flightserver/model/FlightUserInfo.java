@@ -1,6 +1,5 @@
 package com.flightserver.model;
 
-
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

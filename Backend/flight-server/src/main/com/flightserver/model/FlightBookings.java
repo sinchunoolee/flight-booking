@@ -17,7 +17,7 @@ import java.time.LocalDateTime;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class FlightBooking {
+public class FlightBookings {
     @Id
     @Column(name = "booking_id")
     private Long bookingId;
